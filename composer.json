@@ -1,0 +1,13 @@
+{
+    "name": "zzc/zz",
+    "description": "a framework",
+    "license": "bsd",
+    "authors": [
+        {
+            "name": "zhouzhichao",
+            "email": "zzc123@foxmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
