@@ -9,5 +9,10 @@
         }
     ],
     "minimum-stability": "beta",
+    "autoload":{
+	"psr-4":{
+	      "zz\\":"framework/"
+	}
+    },
     "require": {}
 }
